@@ -1,0 +1,162 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redrovers.png",
+            "ascent": 8.5,
+            "height": 8.5,
+            "chars": [
+                    "\uE000"
+]
+                
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/orangeotters.png",
+            "ascent": 8.5,
+            "height": 8.5,
+            "chars": [
+                    "\uE001"
+]
+                
+        },
+   
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/yellowyabbys.png",
+            "ascent": 8.5,
+            "height": 8.5,
+            "chars": [
+                    "\uE002"
+]
+                
+        },
+  
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/greengorillas.png",
+            "ascent": 8.5,
+            "height": 8.5,
+            "chars": [
+                    "\uE003"
+]
+                
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cyancougars.png",
+            "ascent": 8.5,
+            "height": 8.5,
+            "chars": [
+                    "\uE004"
+]
+                
+        },
+ 
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/bluebees.png",
+            "ascent": 8.5,
+            "height": 8.5,
+            "chars": [
+                    "\uE005"
+]
+                
+        },
+    
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/purplepigeons.png",
+            "ascent": 8.5,
+            "height": 8.5,
+            "chars": [
+                    "\uE006"
+]
+                
+        },
+    
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pinkporcupines.png",
+            "ascent": 8.5,
+            "height": 8.5,
+            "chars": [
+                    "\uE007"
+                ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/redrovers.png",
+            "ascent": 24,
+            "height": 24,
+            "chars": [
+                    "\uE008"
+]
+                
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/orangeotters.png",
+            "ascent": 24,
+            "height": 24,
+            "chars": [
+                    "\uE009"
+]
+                
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/yellowyabbys.png",
+            "ascent": 24,
+            "height": 24,
+            "chars": [
+                    "\uE010"
+]
+                
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/greengorillas.png",
+            "ascent": 24,
+            "height": 24,
+            "chars": [
+                    "\uE011"
+]
+                
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/cyancougars.png",
+            "ascent": 24,
+            "height": 24,
+            "chars": [
+                    "\uE012"
+]
+                
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/bluebees.png",
+            "ascent": 24,
+            "height": 24,
+            "chars": [
+                    "\uE013"
+]
+                
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/purplepigeons.png",
+            "ascent": 24,
+            "height": 24,
+            "chars": [
+                    "\uE014"
+]
+                
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pinkporcupines.png",
+            "ascent": 24,
+            "height": 24,
+            "chars": [
+                    "\uE015"
+                ]
+        }
+    ]
+}
