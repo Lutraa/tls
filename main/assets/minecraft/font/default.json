@@ -157,6 +157,22 @@
             "chars": [
                     "\uE015"
                 ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/tls.png",
+            "ascent": 24,
+            "height": 24,
+            "chars": [
+                    "\uE016"
+                ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/tlsbig.png",
+            "ascent": 9,
+            "height": 18,
+            "chars": [
+                    "\uE017"
+                ]
         }
     ]
 }
