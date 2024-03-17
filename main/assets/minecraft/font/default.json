@@ -173,6 +173,14 @@
             "chars": [
                     "\uE017"
                 ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/tls.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                    "\uE018"
+                ]
         }
     ]
 }
