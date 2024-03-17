@@ -181,6 +181,14 @@
             "chars": [
                     "\uE018"
                 ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/spectator.png",
+            "ascent": 8.5,
+            "height": 8.5,
+            "chars": [
+                    "\uE019"
+                ]
         }
     ]
 }
