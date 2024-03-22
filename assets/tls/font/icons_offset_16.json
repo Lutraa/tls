@@ -1,0 +1,85 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/icons/redrovers.png",
+      "ascent": 8,
+      "height": 24,
+      "chars": [
+        "\ue000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/icons/orangeotters.png",
+      "ascent": 8,
+      "height": 24,
+      "chars": [
+        "\ue001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/icons/yellowyabbys.png",
+      "ascent": 8,
+      "height": 24,
+      "chars": [
+        "\ue002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/icons/greengorillas.png",
+      "ascent": 8,
+      "height": 24,
+      "chars": [
+        "\ue003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/icons/cyancougars.png",
+      "ascent": 8,
+      "height": 24,
+      "chars": [
+        "\ue004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/icons/bluebees.png",
+      "ascent": 8,
+      "height": 24,
+      "chars": [
+        "\ue005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/icons/purplepigeons.png",
+      "ascent": 8,
+      "height": 24,
+      "chars": [
+        "\ue006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/icons/pinkporcupines.png",
+      "ascent": 8,
+      "height": 24,
+      "chars": [
+        "\ue007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/tls.png",
+      "ascent": 8,
+      "height": 24,
+      "chars": [
+        "\ue008"
+      ]
+    }
+  ]
+}
