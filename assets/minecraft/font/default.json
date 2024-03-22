@@ -3,64 +3,64 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/redrovers.png",
-      "ascent": 8.5,
-      "height": 8.5,
+      "ascent": 7,
+      "height": 8,
       "chars": ["\uE000"]
     },
 
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/orangeotters.png",
-      "ascent": 8.5,
-      "height": 8.5,
+      "ascent": 7,
+      "height": 8,
       "chars": ["\uE001"]
     },
 
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/yellowyabbys.png",
-      "ascent": 8.5,
-      "height": 8.5,
+      "ascent": 7,
+      "height": 8,
       "chars": ["\uE002"]
     },
 
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/greengorillas.png",
-      "ascent": 8.5,
-      "height": 8.5,
+      "ascent": 7,
+      "height": 8,
       "chars": ["\uE003"]
     },
 
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/cyancougars.png",
-      "ascent": 8.5,
-      "height": 8.5,
+      "ascent": 7,
+      "height": 8,
       "chars": ["\uE004"]
     },
 
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/bluebees.png",
-      "ascent": 8.5,
-      "height": 8.5,
+      "ascent": 7,
+      "height": 8,
       "chars": ["\uE005"]
     },
 
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/purplepigeons.png",
-      "ascent": 8.5,
-      "height": 8.5,
+      "ascent": 7,
+      "height": 8,
       "chars": ["\uE006"]
     },
 
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/pinkporcupines.png",
-      "ascent": 8.5,
-      "height": 8.5,
+      "ascent": 7,
+      "height": 8,
       "chars": ["\uE007"]
     },
     {
@@ -80,8 +80,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/icons/spectator.png",
-      "ascent": 8.5,
-      "height": 8.5,
+      "ascent": 7,
+      "height": 8,
       "chars": ["\uE00A"]
     }
   ]
