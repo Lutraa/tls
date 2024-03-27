@@ -83,6 +83,13 @@
       "ascent": 7,
       "height": 8,
       "chars": ["\uE00A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/dropdown.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE00B"]
     }
   ]
 }
