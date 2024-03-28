@@ -1,45 +1,45 @@
 {
-  "audio1": {
+  "game1": {
     "sounds": [
       "custom:ding-47489"]
     },
 
-  "audio2": {
+  "game2": {
     "sounds": [
       "custom:ding-47489"]
     },
 
-  "audio3": {
+  "game3": {
     "sounds": [
       "custom:ding-47489"]
     },
 
-  "audio4": {
+  "game4": {
     "sounds": [
       "custom:ding-47489"]
     },
 
-  "audio5": {
+  "game5": {
     "sounds": [
       "custom:ding-47489"]
     },
 
-  "audio6": {
+  "game6": {
     "sounds": [
       "custom:ding-47489"]
     },
 
-  "audio7": {
+  "game7": {
     "sounds": [
       "custom:ding-47489"]
     },
 
-  "audio8": {
+  "game8": {
     "sounds": [
       "custom:ding-47489"]
     },
 
-  "audio9": {
+  "sfx1": {
     "sounds": [
       "custom:ding-47489"]
     }
