@@ -3,10 +3,10 @@
     "sounds": ["tls:placeholder"]
   },
   "zone": {
-    "sounds": ["tls:Zone"]
+    "sounds": ["tls:zone"]
   },
   "replica": {
-    "sounds": ["tls:Replica"]
+    "sounds": ["tls:replica"]
   },
   "final_duel": {
     "sounds": ["tls:final_duel"]
