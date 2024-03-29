@@ -10,5 +10,10 @@
   },
   "final_duel": {
     "sounds": ["tls:final_duel"]
-  }
+  },
+  "speedrun_derby": {
+    "sounds": ["tls:speedrun_derby"]
+  },
+    "block_party": {
+    "sounds": ["tls:block_party"]
 }
