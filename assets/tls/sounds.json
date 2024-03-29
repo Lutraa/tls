@@ -1,5 +1,14 @@
 {
   "placeholder": {
     "sounds": ["tls:placeholder"]
+  },
+  "zone": {
+    "sounds": ["tls:Zone.ogg"]
+  },
+  "replica": {
+    "sounds": ["tls:Replica.ogg"]
+  },
+  "final_duel": {
+    "sounds": ["tls:final_duel.ogg"]
   }
 }
