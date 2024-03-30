@@ -3,18 +3,53 @@
     "sounds": ["tls:placeholder"]
   },
   "zone": {
-    "sounds": ["tls:zone"]
+    "sounds": [
+      {
+        "name": "tls:zone",
+        "stream": true,
+        "volume": 0.7,
+        "attenuation_distance": 0
+      }
+    ]
   },
   "replica": {
-    "sounds": ["tls:replica"]
+    "sounds": [
+      {
+        "name": "tls:replica",
+        "stream": true,
+        "volume": 0.7,
+        "attenuation_distance": 0
+      }
+    ]
   },
   "final_duel": {
-    "sounds": ["tls:final_duel"]
+    "sounds": [
+      {
+        "name": "tls:final_duel",
+        "stream": true,
+        "volume": 0.7,
+        "attenuation_distance": 0
+      }
+    ]
   },
   "speedrun_derby": {
-    "sounds": ["tls:speedrun_derby"]
+    "sounds": [
+      {
+        "name": "tls:speedrun_derby",
+        "stream": true,
+        "volume": 0.7,
+        "attenuation_distance": 0
+      }
+    ]
   },
-    "block_party": {
-    "sounds": ["tls:block_party"]
-}
+  "block_party": {
+    "sounds": [
+      {
+        "name": "tls:block_party",
+        "stream": true,
+        "volume": 0.7,
+        "attenuation_distance": 0
+      }
+    ]
+  }
 }
