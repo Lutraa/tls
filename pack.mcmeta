@@ -3,4 +3,13 @@
     "pack_format": 22,
     "description": "§aTLS Texture Pack! §4Made by LogyBanana & Pe3ep"
   }
+},
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 18, "max_inclusive": 2147483647},
+				"directory": "overlay_18"
+			}
+		]
+	}
 }
