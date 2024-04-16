@@ -51,5 +51,15 @@
         "attenuation_distance": 0
       }
     ]
+  },
+   "pixel_clash": {
+    "sounds": [
+      {
+        "name": "tls:pixel_clash",
+        "stream": true,
+        "volume": 0.7,
+        "attenuation_distance": 0
+      }
+    ]
   }
 }
