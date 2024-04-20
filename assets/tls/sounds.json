@@ -61,5 +61,15 @@
         "attenuation_distance": 0
       }
     ]
+  },
+   "shoot_out": {
+    "sounds": [
+      {
+        "name": "tls:shootout",
+        "stream": true,
+        "volume": 0.7,
+        "attenuation_distance": 0
+      }
+    ]
   }
 }
