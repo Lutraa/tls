@@ -65,7 +65,7 @@
    "shoot_out": {
     "sounds": [
       {
-        "name": "tls:shootout",
+        "name": "tls:shoot_out",
         "stream": true,
         "volume": 0.7,
         "attenuation_distance": 0

@@ -90,6 +90,13 @@
       "ascent": 7,
       "height": 8,
       "chars": ["\uE00B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kill2.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE00C"]
     }
   ]
 }
