@@ -72,6 +72,26 @@
       }
     ]
   },
+  "countdown": {
+    "sounds": [
+  {
+        "name": "tls:countdown",
+        "stream": true,
+        "volume": 0.7,
+        "attenuation_distance": 0
+      }
+    ]
+  },
+  "kill_effect": {
+    "sounds": [
+  {
+        "name": "tls:kill_effect",
+        "stream": true,
+        "volume": 0.7,
+        "attenuation_distance": 0
+      }
+    ]
+  },
    "shoot_out": {
     "sounds": [
       {
