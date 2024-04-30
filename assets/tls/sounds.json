@@ -71,5 +71,14 @@
         "attenuation_distance": 0
       }
     ]
-  }
+  },
+   "start_event": {
+    "sounds": [
+      {
+        "name": "tls:event_start",
+        "stream": true,
+        "volume": 0.7,
+        "attenuation_distance": 0
+      }
+    ]
 }
