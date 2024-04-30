@@ -52,10 +52,40 @@
       }
     ]
   },
+  "end": {
+    "sounds": [
+  {
+        "name": "tls:end",
+        "stream": true,
+        "volume": 0.7,
+        "attenuation_distance": 0
+      }
+    ]
+  },
    "pixel_clash": {
     "sounds": [
       {
         "name": "tls:pixel_clash",
+        "stream": true,
+        "volume": 0.7,
+        "attenuation_distance": 0
+      }
+    ]
+  },
+  "countdown": {
+    "sounds": [
+  {
+        "name": "tls:countdown",
+        "stream": true,
+        "volume": 0.7,
+        "attenuation_distance": 0
+      }
+    ]
+  },
+  "kill_effect": {
+    "sounds": [
+  {
+        "name": "tls:kill_effect",
         "stream": true,
         "volume": 0.7,
         "attenuation_distance": 0
