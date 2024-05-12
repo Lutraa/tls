@@ -104,11 +104,12 @@
   },
    "start_event": {
     "sounds": [
-      {
+  {
         "name": "tls:start_event",
         "stream": true,
         "volume": 0.7,
         "attenuation_distance": 0
       }
    ]
+ }
 }
