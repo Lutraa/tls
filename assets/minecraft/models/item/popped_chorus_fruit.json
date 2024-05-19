@@ -9,6 +9,12 @@
         "custom_model_data": 1
       },
       "model": "tls:pride/pride_flag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "tls:pride/headband_mockup"
     }
   ]
 }
