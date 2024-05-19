@@ -4,17 +4,18 @@
     "layer0": "minecraft:item/popped_chorus_fruit"
   },
   "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 1
-      },
-      "model": "tls:pride/pride_flag"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2
-      },
-      "model": "tls:pride/headband_mockup"
-    }
+    {"predicate": {"custom_model_data": 1},"model": "tls:pride/pride_flag"},
+    {"predicate": {"custom_model_data": 2},"model": "tls:pride/headband_pride"},
+    {"predicate": {"custom_model_data": 3},"model": "tls:pride/headband_gay"},
+    {"predicate": {"custom_model_data": 4},"model": "tls:pride/headband_lesbian"},
+    {"predicate": {"custom_model_data": 5},"model": "tls:pride/headband_non_binary"},
+    {"predicate": {"custom_model_data": 6},"model": "tls:pride/headband_pansexual"},
+    {"predicate": {"custom_model_data": 7},"model": "tls:pride/headband_bisexual"},
+    {"predicate": {"custom_model_data": 8},"model": "tls:pride/headband_trans"},
+    {"predicate": {"custom_model_data": 9},"model": "tls:pride/headband_queer"},
+    {"predicate": {"custom_model_data": 10},"model": "tls:pride/headband_asexual"},
+    {"predicate": {"custom_model_data": 11},"model": "tls:pride/gay_flag"},
+    {"predicate": {"custom_model_data": 11},"model": "tls:pride/lesbian_flag"},
+    {"predicate": {"custom_model_data": 11},"model": "tls:pride/trans_flag"},
   ]
 }
