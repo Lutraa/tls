@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "tls:pride/pride_flag",
+		"1": "block/pride_flag",
 		"2": "block/oak_planks",
 		"particle": "block/oak_planks"
 	},
