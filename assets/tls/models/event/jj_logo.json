@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "tls:event/jjlogo",
-		"particle": "tls:event/red_arrow"
+		"particle": "tls:event/jjlogo"
 	},
 	"elements": [
 		{

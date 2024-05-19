@@ -18,6 +18,10 @@
     {"predicate": {"custom_model_data": 12},"model": "tls:pride/lesbian_flag"},
     {"predicate": {"custom_model_data": 13},"model": "tls:pride/bisexual_flag"},
     {"predicate": {"custom_model_data": 14},"model": "tls:event/red_arrow"},
-    {"predicate": {"custom_model_data": 15},"model": "tls:event/jj_logo"}
+    {"predicate": {"custom_model_data": 15},"model": "tls:event/jj_logo"},
+    {"predicate": {"custom_model_data": 16},"model": "tls:staff_npcs/logy"},
+    {"predicate": {"custom_model_data": 17},"model": "tls:staff_npcs/fire"},
+    {"predicate": {"custom_model_data": 18},"model": "tls:staff_npcs/limedd"},
+    {"predicate": {"custom_model_data": 19},"model": "tls:staff_npcs/ellz"}
   ]
 }
