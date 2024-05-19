@@ -17,6 +17,7 @@
     {"predicate": {"custom_model_data": 11},"model": "tls:pride/gay_flag"},
     {"predicate": {"custom_model_data": 12},"model": "tls:pride/lesbian_flag"},
     {"predicate": {"custom_model_data": 13},"model": "tls:pride/bisexual_flag"},
-    {"predicate": {"custom_model_data": 14},"model": "tls:event/red_arrow"}
+    {"predicate": {"custom_model_data": 14},"model": "tls:event/red_arrow"},
+    {"predicate": {"custom_model_data": 15},"model": "tls:event/jj_logo"}
   ]
 }
