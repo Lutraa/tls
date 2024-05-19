@@ -22,6 +22,8 @@
     {"predicate": {"custom_model_data": 16},"model": "tls:staff_npcs/logy"},
     {"predicate": {"custom_model_data": 17},"model": "tls:staff_npcs/fire"},
     {"predicate": {"custom_model_data": 18},"model": "tls:staff_npcs/limedd"},
-    {"predicate": {"custom_model_data": 19},"model": "tls:staff_npcs/ellz"}
+    {"predicate": {"custom_model_data": 19},"model": "tls:staff_npcs/ellz"},
+    {"predicate": {"custom_model_data": 20},"model": "tls:pride/headband_aromantic"},
+    {"predicate": {"custom_model_data": 21},"model": "tls:pride/headband_genderfluid"}
   ]
 }
