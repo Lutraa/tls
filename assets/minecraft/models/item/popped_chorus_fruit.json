@@ -24,6 +24,10 @@
     {"predicate": {"custom_model_data": 18},"model": "tls:staff_npcs/limedd"},
     {"predicate": {"custom_model_data": 19},"model": "tls:staff_npcs/ellz"},
     {"predicate": {"custom_model_data": 20},"model": "tls:pride/headband_aromantic"},
-    {"predicate": {"custom_model_data": 21},"model": "tls:pride/headband_genderfluid"}
+    {"predicate": {"custom_model_data": 21},"model": "tls:pride/headband_genderfluid"},
+    {"predicate": {"custom_model_data": 22},"model": "tls:pride/asexual_flag"},
+    {"predicate": {"custom_model_data": 23},"model": "tls:pride/aromantic_flag"},
+    {"predicate": {"custom_model_data": 24},"model": "tls:pride/genderfluid_flag"},
+    {"predicate": {"custom_model_data": 25},"model": "tls:pride/balloon/rainbow"}
   ]
 }
