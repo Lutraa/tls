@@ -28,6 +28,16 @@
     {"predicate": {"custom_model_data": 22},"model": "tls:pride/asexual_flag"},
     {"predicate": {"custom_model_data": 23},"model": "tls:pride/aromantic_flag"},
     {"predicate": {"custom_model_data": 24},"model": "tls:pride/genderfluid_flag"},
-    {"predicate": {"custom_model_data": 25},"model": "tls:pride/balloon/rainbow"}
+    {"predicate": {"custom_model_data": 25},"model": "tls:pride/aromantic_flat"},
+    {"predicate": {"custom_model_data": 26},"model": "tls:pride/asexual_flat"},
+    {"predicate": {"custom_model_data": 27},"model": "tls:pride/bisexual_flat"},
+    {"predicate": {"custom_model_data": 28},"model": "tls:pride/gay_flat"},
+    {"predicate": {"custom_model_data": 29},"model": "tls:pride/genderfluid_flat"},
+    {"predicate": {"custom_model_data": 30},"model": "tls:pride/lesbian_flat"},
+    {"predicate": {"custom_model_data": 31},"model": "tls:pride/non_binary_flat"},
+    {"predicate": {"custom_model_data": 32},"model": "tls:pride/pansexual_flat"},
+    {"predicate": {"custom_model_data": 33},"model": "tls:pride/pride_flat"},
+    {"predicate": {"custom_model_data": 33},"model": "tls:pride/queer_flat"},
+    {"predicate": {"custom_model_data": 33},"model": "tls:pride/trans_flat"},
   ]
 }
