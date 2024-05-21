@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"h": "tls:pride/pride_stuff/yellow_stained_glass",
-		"d": "tls:pride/pride_stuff/pink_stained_glass",
-		"g": "tls:pride/pride_stuff/orange_stained_glass",
-		"e": "tls:pride/pride_stuff/gray_stained_glass",
-		"c": "tls:pride/pride_stuff/purple_stained_glass",
-		"b": "tls:pride/pride_stuff/blue_stained_glass",
-		"f": "tls:pride/pride_stuff/red_stained_glass",
-		"a": "tls:pride/pride_stuff/lime_stained_glass",
-		"particle": "tls:pride/pride_stuff/gray_stained_glass"
+		"h": "pride_stuff/yellow_stained_glass",
+		"d": "pride_stuff/pink_stained_glass",
+		"g": "pride_stuff/orange_stained_glass",
+		"e": "pride_stuff/gray_stained_glass",
+		"c": "pride_stuff/purple_stained_glass",
+		"b": "pride_stuff/blue_stained_glass",
+		"f": "pride_stuff/red_stained_glass",
+		"a": "pride_stuff/lime_stained_glass",
+		"particle": "pride_stuff/gray_stained_glass"
 	},
 	"elements": [
 		{
