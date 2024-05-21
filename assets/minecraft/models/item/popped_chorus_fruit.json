@@ -37,7 +37,7 @@
     {"predicate": {"custom_model_data": 31},"model": "tls:pride/non_binary_flat"},
     {"predicate": {"custom_model_data": 32},"model": "tls:pride/pansexual_flat"},
     {"predicate": {"custom_model_data": 33},"model": "tls:pride/pride_flat"},
-    {"predicate": {"custom_model_data": 33},"model": "tls:pride/queer_flat"},
-    {"predicate": {"custom_model_data": 33},"model": "tls:pride/trans_flat"}
+    {"predicate": {"custom_model_data": 34},"model": "tls:pride/queer_flat"},
+    {"predicate": {"custom_model_data": 35},"model": "tls:pride/trans_flat"}
   ]
 }
