@@ -80,6 +80,15 @@
       "chars": [
         "\ue008"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/blur.png",
+      "ascent": 140,
+      "height": 240,
+      "chars": [
+        "\ue009"
+      ]
     }
   ]
 }
