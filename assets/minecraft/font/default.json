@@ -97,6 +97,15 @@
       "ascent": 7,
       "height": 8,
       "chars": ["\uE00C"]
-    }
+    },
+    {
+      "file": "minecraft:font/blur.png",
+      "chars": [
+      "⓮"
+      ],
+      "height": 256,
+      "ascent": 256,
+      "type": "bitmap"
+     }
   ]
 }
