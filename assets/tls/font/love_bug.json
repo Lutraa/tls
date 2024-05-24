@@ -1,0 +1,15 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "minecraft:include/space"
+    },
+    {
+      "type": "ttf",
+      "file": "tls:love_bug.ttf",
+      "shift": [0.0, 1.75],
+      "size": 8.0,
+      "oversample": 9.0
+    }
+  ]
+}
