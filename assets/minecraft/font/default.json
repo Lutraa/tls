@@ -5,7 +5,7 @@
       "file": "minecraft:font/icons/redrovers.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE000"]
+      "chars": ["弈"]
     },
 
     {
@@ -13,7 +13,7 @@
       "file": "minecraft:font/icons/orangeotters.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE001"]
+      "chars": ["鰳"]
     },
 
     {
@@ -21,7 +21,7 @@
       "file": "minecraft:font/icons/yellowyabbys.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE002"]
+      "chars": ["䓝"]
     },
 
     {
@@ -29,7 +29,7 @@
       "file": "minecraft:font/icons/greengorillas.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE003"]
+      "chars": ["亩"]
     },
 
     {
@@ -37,7 +37,7 @@
       "file": "minecraft:font/icons/cyancougars.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE004"]
+      "chars": ["尺"]
     },
 
     {
@@ -45,7 +45,7 @@
       "file": "minecraft:font/icons/bluebees.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE005"]
+      "chars": ["斗"]
     },
 
     {
@@ -53,7 +53,7 @@
       "file": "minecraft:font/icons/purplepigeons.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE006"]
+      "chars": ["桧"]
     },
 
     {
@@ -61,7 +61,7 @@
       "file": "minecraft:font/icons/pinkporcupines.png",
       "ascent": 7,
       "height": 8,
-      "chars": ["\uE007"]
+      "chars": ["梧"]
     },
     {
       "type": "bitmap",
